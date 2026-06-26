@@ -293,7 +293,3 @@ Knit
 ```
 
 Esto generará el informe final a partir del código y las explicaciones incluidas en el archivo `.Rmd`.
-
-## Autora
-
-Proyecto desarrollado por Valme Logar como parte de su portfolio de proyectos de análisis de datos, estadística y modelado predictivo.
